@@ -1,4 +1,4 @@
 # Demo
 Hello World
-## subheader
+## Subheader
 Demo Text
